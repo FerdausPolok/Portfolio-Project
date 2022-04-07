@@ -140,3 +140,50 @@ body{
 .bg-red{
     background-color:rgb(247, 47, 47);
 }
+
+
+.education-container .box{
+   
+	background-color: #fdf9ff;
+	padding-left: 15px;
+    margin-top: 20px;
+   padding-bottom: 20px;
+	border:1px solid #d4d4e3;
+	border-radius: 10px;
+	width: 100%;
+    -webkit-box-shadow: 0 0 20px rgba(48,46,77,0.15);
+	box-shadow: 0 0 20px rgba(48,46,77,0.15);
+	position: relative;
+
+}
+
+
+.education-container .box .timeline-date{
+	font-size: 14px;
+	font-weight: 400;
+	margin-bottom: 12px;
+	color:#4e6870;
+    margin-top: 30px;
+}
+.education-container .box .timeline-date .fa{
+	margin-right: 5px;
+}
+
+
+.education-container .box .timeline-title{
+	font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 10px;
+ 
+    text-transform: capitalize;
+    color:#2e3f4d;
+}
+.education-container .box  .timeline-text{
+	font-size: 16px;
+	line-height: 25px;
+	color:#504e70;
+	margin:0;
+    
+}
+
