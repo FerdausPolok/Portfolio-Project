@@ -42,7 +42,7 @@ body{
 
 .about-container{
     padding-top: 20px;
-    background-color: #F2F2FC;
+    background-color: #ffffff;
 }
 
 #polok{
@@ -185,5 +185,9 @@ body{
 	color:#504e70;
 	margin:0;
     
+}
+
+.education-container{
+    background-color: #F2F2FC;
 }
 
