@@ -201,6 +201,24 @@ body{
 
 
 
+.form-container{
+
+    background-color: #eeeeee;
+}
+
+#ph{
+line-height: 10px;
+}
+
+.contact-container{
+    background-color: #2e3f4d;
+}
+
+.inner-form{
+    background-color: #182733;
+}
+
+
 /* #a{
 
     background-color: red
