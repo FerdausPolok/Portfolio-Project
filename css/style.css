@@ -218,6 +218,37 @@ line-height: 10px;
     background-color: #182733;
 }
 
+.footer-container{
+    background-color: #F2F2FC;
+}
+
+.social-links{
+	margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.social-links a{
+	height: 35px;
+	width: 35px;
+	display: inline-block;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+	margin:0 4px;
+    
+    background-color: rgb(255, 48, 48);
+	border-radius: 50%;
+	text-decoration: none;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}
+
+.social-links a:hover{
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+
 
 /* #a{
 
